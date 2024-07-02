@@ -1,1 +1,1 @@
-# Tutorial on photmetry
+# Tutorial on photometry
